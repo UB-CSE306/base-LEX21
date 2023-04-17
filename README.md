@@ -17,12 +17,8 @@ You may incorporate these into targets in the makefiles to make running the code
 
 ## Getting to work
 
-Open [the LEX 21 response form](https://docs.google.com/forms/d/e/1FAIpQLSeZjIr6WCFPAkd224yA0vWogz4HClJfVJ-jmUScPfPfqBNnJQ/viewform?usp=sf_link), follow the instructions and put answers to questions into the form.
+Open [the LEX 21 response form](https://forms.microsoft.com/r/EV453GsxDw), follow the instructions and put answers to questions into the form.
 
 It is **very important** that you add/commit/push your changes at least as often as indicated in the response form: we need to see that you followed the steps indicated, and we need to see what output your program produce at selected points in time.  If you don't do this we cannot properly assess your work.
 
 You are also expected to use git branching and merging sensibly as you work your way through this LEX, to give you additional practice before the lab practical exams which are on the horizon.
-
-## Finishing up
-
-Open [the LEX 21 feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfGHVZ-qFnjoqEityC3EaSM6FCTrpd_yjsmmcnafacP3QkHGg/viewform?usp=sf_link) and give your thoughts on this lab exercise.
