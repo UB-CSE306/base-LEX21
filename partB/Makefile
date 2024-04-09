@@ -9,11 +9,11 @@ OBJECTS= StringList.o
 
 # Recipes for targets
 
+main: $(OBJECTS) $(EXE).c
+	$(CC) -o $(EXE) $(OBJECTS) $(EXE).c
+
 StringList.o: StringList.c StringList.h
 	$(CC) $(CFLAGS) -c StringList.c
-
-main: $(OBJECTS)
-	$(CC) -o $(EXE) $(OBJECTS) $(EXE).c
 
 # PHONY targets
 

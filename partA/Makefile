@@ -9,7 +9,7 @@ OBJECTS= IntList.o
 
 # Recipes for targets
 
-main: $(OBJECTS)
+main: $(OBJECTS) $(EXE).c
 	$(CC) -o $(EXE) $(OBJECTS) $(EXE).c
 
 IntList.o: IntList.c IntList.h
