@@ -9,11 +9,11 @@ OBJECTS= IntList.o
 
 # Recipes for targets
 
-IntList.o: IntList.c IntList.h
-	$(CC) $(CFLAGS) -c IntList.c
-
 main: $(OBJECTS)
 	$(CC) -o $(EXE) $(OBJECTS) $(EXE).c
+
+IntList.o: IntList.c IntList.h
+	$(CC) $(CFLAGS) -c IntList.c
 
 # PHONY targets
 
