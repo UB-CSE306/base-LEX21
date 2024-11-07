@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lab exercise you will be working with the memcheck tool from the valgrind suite. In class yesterday, we explored several errors that memcheck can detect and discussed what code problems can give rise to them. In this exercise, you get to explore memory problems in some code, with the goal being to resolve them.
+In this lab exercise you will be working with the memcheck tool from the valgrind suite. In last class, we explored several errors that memcheck can detect and discussed what code problems can give rise to them. In this exercise, you get to explore memory problems in some code, with the goal being to resolve them.
 
 The exercise is split into two parts, partA and partB.  The code for each part is its own directory.  Start with partA and then move on to partB.
 
